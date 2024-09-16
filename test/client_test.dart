@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:centrifuge/centrifuge.dart' as centrifuge;
+import 'package:centrifuge_0141/centrifuge.dart' as centrifuge;
 import 'package:test/test.dart';
 
 void main() {

@@ -1,7 +1,7 @@
 import 'dart:async';
 
-import 'package:centrifuge/centrifuge.dart';
-import 'package:centrifuge/src/events.dart';
+import 'package:centrifuge_0141/centrifuge.dart';
+import 'package:centrifuge_0141/src/events.dart';
 
 /// Contains the client configuration
 class ClientConfig {

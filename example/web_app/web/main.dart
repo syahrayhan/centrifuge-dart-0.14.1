@@ -1,6 +1,6 @@
 import 'dart:html';
 
-import 'package:centrifuge/centrifuge.dart';
+import 'package:centrifuge_0141/centrifuge.dart';
 
 void main() {
   querySelector('#output')?.text = 'Your Dart app is running.';

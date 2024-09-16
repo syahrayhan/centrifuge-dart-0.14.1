@@ -1,10 +1,10 @@
 import 'dart:async';
 import 'dart:math';
 
-import 'package:centrifuge/centrifuge.dart';
-import 'package:centrifuge/src/codes.dart';
-import 'package:centrifuge/src/server_subscription.dart';
-import 'package:centrifuge/src/transport.dart';
+import 'package:centrifuge_0141/centrifuge.dart';
+import 'package:centrifuge_0141/src/codes.dart';
+import 'package:centrifuge_0141/src/server_subscription.dart';
+import 'package:centrifuge_0141/src/transport.dart';
 import 'package:meta/meta.dart';
 
 import 'proto/client.pb.dart' as protocol;

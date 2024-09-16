@@ -1,7 +1,7 @@
 import 'dart:async';
 import 'dart:convert';
 
-import 'package:centrifuge/centrifuge.dart' as centrifuge;
+import 'package:centrifuge_0141/centrifuge.dart' as centrifuge;
 import 'package:flutter/material.dart';
 
 void main() => runApp(MyApp());

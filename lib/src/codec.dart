@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:centrifuge/src/proto/client.pb.dart';
+import 'package:centrifuge_0141/src/proto/client.pb.dart';
 import 'package:protobuf/protobuf.dart';
 
 abstract class CommandEncoder extends Converter<Command, List<int>> {}

@@ -1,7 +1,7 @@
 import 'dart:convert';
 import 'dart:io';
 
-import 'package:centrifuge/centrifuge.dart' as centrifuge;
+import 'package:centrifuge_0141/centrifuge.dart' as centrifuge;
 
 void main() async {
   final url = 'ws://localhost:8000/connection/websocket';
